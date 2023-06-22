@@ -4,10 +4,12 @@
 	display: flex;
 	justify-content:space-between;
 	box-size:border-box;
-}
-#flex-item1{
 	height:720px;
 	width:1280px;
+}
+#flex-item1{
+	height:100px;
+	width:100px;
 	background-color:red;
 /* 	align-self:center; */
 	order:2;
