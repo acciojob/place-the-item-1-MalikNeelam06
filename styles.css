@@ -6,8 +6,8 @@
 	box-size:border-box;
 }
 #flex-item1{
-	height:100px;
-	width:100px;
+	height:720px;
+	width:1280px;
 	background-color:red;
 /* 	align-self:center; */
 	order:2;
