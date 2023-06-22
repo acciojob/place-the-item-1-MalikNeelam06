@@ -4,6 +4,7 @@
 	display: flex;
 	justify-content:space-between;
 	box-size:border-box;
+	flex-wrap: wrap;
 	height:720px;
 	width:1280px;
 }
